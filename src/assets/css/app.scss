@@ -1,0 +1,13 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+@import './fontawesome.scss';
+//Admin lte CSS
+
+@import '~admin-lte/dist/css/adminlte.min.css';
+
+body{
+    font-family : 'Nunito', sans-serif !important;
+}
+.custom-btn{
+    padding : 0.5rem 2.5rem;
+}
